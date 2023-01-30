@@ -1,6 +1,6 @@
 # Content 
 
-[1_Headings](this is heading method in markdown language)(#1_-headings-of-markdown-language)\
+[1_Headings](#1_-headings-of-markdown-language)\
 [2_Block of words](#2_-block-of-words)\
 [3_Line break](#3_-line-break-in-markdown-language)\
 [4_Combining two things](#4_-combine-two-things)\
